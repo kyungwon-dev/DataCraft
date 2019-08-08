@@ -1,0 +1,9 @@
+---
+
+applications:
+ - name:datacraft603
+   host:datacraft
+   memory:512M
+   instance:1
+   path:./datacraft.war
+   buildpack:java_buildpack
